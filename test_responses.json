@@ -1,0 +1,1112 @@
+[
+    {
+        "id": 0,
+        "image_name": "comparison_1.jpg",
+        "comparison": true,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "How are both these images same? Give a detailed answer",
+        "gt_answer": "Both of them show trees with a white theme. The leaves of the trees themselves are white as well. Both images show the shape of a lion being formed through the threes wihtout actual lions being in the image. Both images show a wintery/snowy setting.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_1_gaussian_47_rotation_fv.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_1.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 47,
+            "vertical_flip": true,
+            "horizontal_flip": false
+        },
+        "question": "How are both these images same? Give a detailed answer",
+        "gt_answer": "Both of them show trees with a white theme. The leaves of the trees themselves are white as well. Both images show the shape of a lion being formed through the threes wihtout actual lions being in the image. Both images show a wintery/snowy setting.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "comparison_2.jpeg",
+        "comparison": true,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "How are these images different? Give a detailed answer",
+        "gt_answer": "Although both images show the same person, with the same hair and dress, the picture on the left shows no eye makeup or eybrows on the face of the person shown. The pciture on the right shows the same person but with purple eye makeup and eyebrows as well.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_2_108_rotation_fv_gaussian_fh.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_2.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 108,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "",
+        "gt_answer": "Although both images show the same person, with the same hair and dress, the picture on the left shows no eye makeup or eybrows on the face of the person shown. The pciture on the right shows the same person but with purple eye makeup and eyebrows as well.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_2_gaussian_78_rotation_fh.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_2.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 78,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "",
+        "gt_answer": "Although both images show the same person, with the same hair and dress, the picture on the left shows no eye makeup or eybrows on the face of the person shown. The pciture on the right shows the same person but with purple eye makeup and eyebrows as well.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_2_gaussian_fv_fh.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_2.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 0,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "",
+        "gt_answer": "Although both images show the same person, with the same hair and dress, the picture on the left shows no eye makeup or eybrows on the face of the person shown. The pciture on the right shows the same person but with purple eye makeup and eyebrows as well.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_2_-137_rotation_gaussian.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_2.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -137,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "",
+        "gt_answer": "Although both images show the same person, with the same hair and dress, the picture on the left shows no eye makeup or eybrows on the face of the person shown. The pciture on the right shows the same person but with purple eye makeup and eyebrows as well.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "comparison_3.jpg",
+        "comparison": true,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "Which toast is sad and which toast is burnt more?",
+        "gt_answer": "A sad face can be seen on the toast on the left side and the left hand toast is also the one which is burnt more.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_3_gaussian_fh_fv_-34_rotation.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_3.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -34,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "",
+        "gt_answer": "A sad face can be seen on the toast on the left side and the left hand toast is also the one which is burnt more.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_3_fh_fv_-22_rotation_gaussian.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_3.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -22,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "",
+        "gt_answer": "A sad face can be seen on the toast on the left side and the left hand toast is also the one which is burnt more.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_3_-23_rotation_gaussian.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_3.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -23,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "",
+        "gt_answer": "A sad face can be seen on the toast on the left side and the left hand toast is also the one which is burnt more.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_3_fv_64_rotation_gaussian_fh.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_3.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 64,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "",
+        "gt_answer": "A sad face can be seen on the toast on the left side and the left hand toast is also the one which is burnt more.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "comparison_4.jpg",
+        "comparison": true,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "Which hand is the doctor wearing a yellow watch?",
+        "gt_answer": "The doctor is not wearing a yellow watch. He is wearing a black watch on the left hand and holding a yellow pill in his right hand.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_4_fh_gaussian_fv_-99_rotation.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_4.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -99,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "",
+        "gt_answer": "The doctor is not wearing a yellow watch. He is wearing a black watch on the left hand and holding a yellow pill in his right hand.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_4_gaussian_fh_fv.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_4.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 0,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "",
+        "gt_answer": "The doctor is not wearing a yellow watch. He is wearing a black watch on the left hand and holding a yellow pill in his right hand.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\comparison_4_-93_rotation_fh_fv_gaussian.jpeg",
+        "comparison": true,
+        "original_image_name": "comparison_4.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -93,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "",
+        "gt_answer": "The doctor is not wearing a yellow watch. He is wearing a black watch on the left hand and holding a yellow pill in his right hand.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "mmhal_1.jpg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "Which color are the glasses that the man in the image is wearing?",
+        "gt_answer": "The man is not wearing glasses.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_1_fv_fh_73_rotation_gaussian.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_1.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 73,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "Which color are the glasses that the man in the image is wearing?",
+        "gt_answer": "The man is not wearing glasses.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_1_121_rotation_fv_gaussian_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_1.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 121,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "Which color are the glasses that the man in the image is wearing?",
+        "gt_answer": "The man is not wearing glasses.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_1_gaussian_-119_rotation_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_1.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -119,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "Which color are the glasses that the man in the image is wearing?",
+        "gt_answer": "The man is not wearing glasses.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_1_fh_gaussian_-35_rotation_fv_comparison.jpeg",
+        "comparison": true,
+        "original_image_name": "mmhal_1.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -35,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "In which image is the man wearing glasses",
+        "gt_answer": "Both images depict the same man and the man is not wearing glasses in either.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "mmhal_2.jpg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "How much is it per hour to park at the parking meter?",
+        "gt_answer": "It is $4 per hour to park at the parking meter.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_2_gaussian_fh_-26_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_2.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -26,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "How much is it per hour to park at the parking meter?",
+        "gt_answer": "It is $4 per hour to park at the parking meter.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_2_gaussian_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_2.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "How much is it per hour to park at the parking meter?",
+        "gt_answer": "It is $4 per hour to park at the parking meter.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_2_gaussian_fv.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_2.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 0,
+            "vertical_flip": true,
+            "horizontal_flip": false
+        },
+        "question": "How much is it per hour to park at the parking meter?",
+        "gt_answer": "It is $4 per hour to park at the parking meter.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_2_fv_gaussian_fh_36_rotation_comparison.jpeg",
+        "comparison": true,
+        "original_image_name": "mmhal_2.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 36,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "What is the different in cost to park in both the parking meters shown?",
+        "gt_answer": "There is no differece, both show $4 per hour to park.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "mmhal_3.jpg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "How would you describe the weather in the image?",
+        "gt_answer": "The photo was captured during nighttime, with a dark sky overhead. It depicts a Ferris wheel surrounded by people and illuminated by the lights.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_3_gaussian_fv_fh_61_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_3.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 61,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "How would you describe the weather in the image?",
+        "gt_answer": "The photo was captured during nighttime, with a dark sky overhead. It depicts a Ferris wheel surrounded by people and illuminated by the lights.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_3_fv_fh_gaussian.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_3.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 0,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "How would you describe the weather in the image?",
+        "gt_answer": "The photo was captured during nighttime, with a dark sky overhead. It depicts a Ferris wheel surrounded by people and illuminated by the lights.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_3_gaussian_116_rotation_fv_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_3.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 116,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "How would you describe the weather in the image?",
+        "gt_answer": "The photo was captured during nighttime, with a dark sky overhead. It depicts a Ferris wheel surrounded by people and illuminated by the lights.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_3_gaussian_fh_98_rotation_comparison.jpeg",
+        "comparison": true,
+        "original_image_name": "mmhal_3.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 98,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "Which images shows a cloudy sky?",
+        "gt_answer": "None, both images show the same photo captured during nighttime, with a dark sky overhead.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "mmhal_4.jpg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "How many complete traffic lights are there in the image?",
+        "gt_answer": "There are four traffic lights in the image.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_4_gaussian_fh_-98_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_4.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -98,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "How many complete traffic lights are there in the image?",
+        "gt_answer": "There are two complete traffic lights in the image, with a third one only slighly visible.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_4_gaussian_-42_rotation_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_4.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -42,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "How many complete traffic lights are there in the image?",
+        "gt_answer": "There are three complete traffic lights in the image.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_4_gaussian_fv_fh_36_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "mmhal_4.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 36,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "How many traffic lights are there in the image?",
+        "gt_answer": "There are three complete traffic lights in the image.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\mmhal_4_gaussian_fv_-74_rotation_comparison.jpeg",
+        "comparison": true,
+        "original_image_name": "mmhal_4.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -74,
+            "vertical_flip": true,
+            "horizontal_flip": false
+        },
+        "question": "Which image has four traffic lights?",
+        "gt_answer": "The on the left.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "pinterest_1.jpeg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "How many animals are in the picture?",
+        "gt_answer": "There are no animals in the picture. However, the shape of a lion's face can be made out through in the tree.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_1_fh_fv_-104_rotation_gaussian.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_1.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -104,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "How many animals are in the picture?",
+        "gt_answer": "There are no animals in the picture. However, the shape of a lion's face can be made out through in the tree.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_1_-97_rotation_fv.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_1.jpeg",
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": -97,
+            "vertical_flip": true,
+            "horizontal_flip": false
+        },
+        "question": "How many animals are in the picture?",
+        "gt_answer": "There are no animals in the picture. However, the shape of a lion's face can be made out through in the tree.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_1_gaussian_fv_fh_30_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_1.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 30,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "How many animals are in the picture?",
+        "gt_answer": "There are no animals in the picture. However, the shape of a lion's face can be made out through in the tree.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_1_fv_fh_-43_rotation_comparison.jpeg",
+        "comparison": true,
+        "original_image_name": "pinterest_1.jpeg",
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": -43,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "Which image shows a tree with white leaves?",
+        "gt_answer": "Both images show a tree with white leaves.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "pinterest_2.jpeg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "What is the color of the alpaca in the picture?",
+        "gt_answer": "The color of the alpaca's fur is (light) brown.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_2_fh_-124_rotation_gaussian.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_2.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -124,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "What is the color of the alpaca in the picture?",
+        "gt_answer": "The color of the alpaca's fur is (light) brown.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_2_gaussian_fh_-109_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_2.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -109,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "What is the color of the alpaca in the picture?",
+        "gt_answer": "The color of the alpaca's fur is (light) brown.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_2_fh_gaussian_115_rotation_fv.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_2.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 115,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "What is the color of the alpaca in the picture?",
+        "gt_answer": "The color of the alpaca's fur is (light) brown.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_2_fv_fh_gaussian_comparison.jpeg",
+        "comparison": true,
+        "original_image_name": "pinterest_2.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 0,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "What is the difference between both these images",
+        "gt_answer": "Both the images are the same. Flipping the right image vertically and then horizontally gives you the image on the right. There image on the right is also less clear than the one on the left.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "pinterest_3.jpeg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "What does the cup in the image say?",
+        "gt_answer": "The cup says MAN TEARS",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_3_5_rotation_fh_fv_gaussian.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_3.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 5,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "What does the cup in the image say?",
+        "gt_answer": "The cup says MAN TEARS",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_3_fh_gaussian_fv_-79_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_3.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -79,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "What does the cup in the image say?",
+        "gt_answer": "The cup says MAN TEARS",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_3_gaussian_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_3.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "What does the cup in the image say?",
+        "gt_answer": "The cup says MAN TEARS",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "pinterest_5.jpeg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "Explain what can be seen in the image",
+        "gt_answer": "The image shows a scenery through a translucent hand. In the scenery, a woman can be seen standing next to a tree during sunset. Around the woman, there is water. All of this is scene in within the hand.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_5_fh_gaussian_fv_-78_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_5.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -78,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "Explain what can be seen in the image",
+        "gt_answer": "The image shows a scenery through a translucent hand. In the scenery, a woman can be seen standing next to a tree during sunset. Around the woman, there is water. All of this is scene in within the hand.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_5_fh_gaussian_-95_rotation_fv.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_5.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -95,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "Explain what can be seen in the image",
+        "gt_answer": "The image shows a scenery through a translucent hand. In the scenery, a woman can be seen standing next to a tree during sunset. Around the woman, there is water. All of this is scene in within the hand.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_5_-141_rotation_fh_fv.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_5.jpeg",
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": -141,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "Explain what can be seen in the image",
+        "gt_answer": "The image shows a scenery through a translucent hand. In the scenery, a woman can be seen standing next to a tree during sunset. Around the woman, there is water. All of this is scene in within the hand.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "pinterest_6.jpeg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "How many people can be seen in this painting?",
+        "gt_answer": "One woman can be seen in the painting.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_6_gaussian_118_rotation_fv_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_6.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 118,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "How many people can be seen in this painting?",
+        "gt_answer": "One woman can be seen in the painting.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_6_gaussian_66_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_6.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 66,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "How many people can be seen in this painting?",
+        "gt_answer": "One woman can be seen in the painting.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_6_fv_fh_gaussian.jpeg",
+        "comparison": false,
+        "original_image_name": "pinterest_6.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 0,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "How many people can be seen in this painting?",
+        "gt_answer": "One woman can be seen in the painting.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\pinterest_6_fh_118_rotation_fv_gaussian_comparison.jpeg",
+        "comparison": true,
+        "original_image_name": "pinterest_6.jpeg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 118,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "Which image shows a painting of a woman?",
+        "gt_answer": "Both images show a painting of the same woman's face.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "unsplash_1.jpg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "How many courts can be seen in the image, regardless of what sports they are for?",
+        "gt_answer": "There are six courts.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_1_gaussian_-122_rotation_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "unsplash_1.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -122,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "How many courts can be seen in the image, regardless of what sports they are for?",
+        "gt_answer": "There are six courts.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_1_fh_fv_gaussian_71_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "unsplash_1.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 71,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "How many courts can be seen in the image, regardless of what sports they are for?",
+        "gt_answer": "There are six courts.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_1_-11_rotation_gaussian_fv_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "unsplash_1.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -11,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "How many courts can be seen in the image, regardless of what sports they are for?",
+        "gt_answer": "There are six courts.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_1_gaussian_fv_-124_rotation_comparison.jpeg",
+        "comparison": true,
+        "original_image_name": "unsplash_1.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -124,
+            "vertical_flip": true,
+            "horizontal_flip": false
+        },
+        "question": "Which image has more courts for playing sports?",
+        "gt_answer": "Both images have the same number of courts.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "unsplash_2.jpg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "How many different colors can be seen on the socks?",
+        "gt_answer": "8 different colors can be seen on the socks",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_2_110_rotation_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "unsplash_2.jpg",
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 110,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "How many different colors can be seen on the socks?",
+        "gt_answer": "8 different colors can be seen on the socks",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_2_gaussian_fh_-50_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "unsplash_2.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": -50,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "How many different colors can be seen on the socks?",
+        "gt_answer": "8 different colors can be seen on the socks",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_2_fh_fv_7_rotation_gaussian.jpeg",
+        "comparison": false,
+        "original_image_name": "unsplash_2.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 7,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "How many different colors can be seen on the socks?",
+        "gt_answer": "8 different colors can be seen on the socks",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_2_85_rotation_fv_fh_gaussian_comparison.jpeg",
+        "comparison": true,
+        "original_image_name": "unsplash_2.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 85,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "Which image shows more colorful socks?",
+        "gt_answer": "Both images show the same socks.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "unsplash_3.jpg",
+        "comparison": false,
+        "original_image_name": null,
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 0,
+            "vertical_flip": false,
+            "horizontal_flip": false
+        },
+        "question": "Which place can be seen in the image?",
+        "gt_answer": "The image shows the planet Earth from space.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_3_17_rotation_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "unsplash_3.jpg",
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": 17,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "Which place can be seen in the image?",
+        "gt_answer": "The image shows the planet Earth from space.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_3_-94_rotation_fv_fh.jpeg",
+        "comparison": false,
+        "original_image_name": "unsplash_3.jpg",
+        "augmentations": {
+            "gaussian_noise": false,
+            "rotation_angle": -94,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "Which place can be seen in the image?",
+        "gt_answer": "The image shows the planet Earth from space.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_3_fv_fh_gaussian_125_rotation.jpeg",
+        "comparison": false,
+        "original_image_name": "unsplash_3.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 125,
+            "vertical_flip": true,
+            "horizontal_flip": true
+        },
+        "question": "Which place can be seen in the image?",
+        "gt_answer": "The image shows the planet Earth from space.",
+        "model_answer": ""
+    },
+    {
+        "id": 0,
+        "image_name": "new_test\\check\\unsplash_3_69_rotation_gaussian_fh_comparison.jpeg",
+        "comparison": true,
+        "original_image_name": "unsplash_3.jpg",
+        "augmentations": {
+            "gaussian_noise": true,
+            "rotation_angle": 69,
+            "vertical_flip": false,
+            "horizontal_flip": true
+        },
+        "question": "Which image from these two show a country?",
+        "gt_answer": "Both the images don't show a country. They show the planet Earth from space.",
+        "model_answer": ""
+    }
+]
