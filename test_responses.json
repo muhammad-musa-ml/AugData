@@ -55,7 +55,7 @@
             "vertical_flip": true,
             "horizontal_flip": true
         },
-        "question": "",
+        "question": "How are these images different? Give a detailed answer",
         "gt_answer": "Although both images show the same person, with the same hair and dress, the picture on the left shows no eye makeup or eybrows on the face of the person shown. The pciture on the right shows the same person but with purple eye makeup and eyebrows as well.",
         "model_answer": ""
     },
@@ -70,7 +70,7 @@
             "vertical_flip": false,
             "horizontal_flip": true
         },
-        "question": "",
+        "question": "How are these images different? Give a detailed answer",
         "gt_answer": "Although both images show the same person, with the same hair and dress, the picture on the left shows no eye makeup or eybrows on the face of the person shown. The pciture on the right shows the same person but with purple eye makeup and eyebrows as well.",
         "model_answer": ""
     },
@@ -85,7 +85,7 @@
             "vertical_flip": true,
             "horizontal_flip": true
         },
-        "question": "",
+        "question": "How are these images different? Give a detailed answer",
         "gt_answer": "Although both images show the same person, with the same hair and dress, the picture on the left shows no eye makeup or eybrows on the face of the person shown. The pciture on the right shows the same person but with purple eye makeup and eyebrows as well.",
         "model_answer": ""
     },
@@ -100,7 +100,7 @@
             "vertical_flip": false,
             "horizontal_flip": false
         },
-        "question": "",
+        "question": "How are these images different? Give a detailed answer",
         "gt_answer": "Although both images show the same person, with the same hair and dress, the picture on the left shows no eye makeup or eybrows on the face of the person shown. The pciture on the right shows the same person but with purple eye makeup and eyebrows as well.",
         "model_answer": ""
     },
@@ -130,7 +130,7 @@
             "vertical_flip": true,
             "horizontal_flip": true
         },
-        "question": "",
+        "question": "Which toast is sad and which toast is burnt more?",
         "gt_answer": "A sad face can be seen on the toast on the left side and the left hand toast is also the one which is burnt more.",
         "model_answer": ""
     },
@@ -145,7 +145,7 @@
             "vertical_flip": true,
             "horizontal_flip": true
         },
-        "question": "",
+        "question": "Which toast is sad and which toast is burnt more?",
         "gt_answer": "A sad face can be seen on the toast on the left side and the left hand toast is also the one which is burnt more.",
         "model_answer": ""
     },
@@ -160,7 +160,7 @@
             "vertical_flip": false,
             "horizontal_flip": false
         },
-        "question": "",
+        "question": "Which toast is sad and which toast is burnt more?",
         "gt_answer": "A sad face can be seen on the toast on the left side and the left hand toast is also the one which is burnt more.",
         "model_answer": ""
     },
@@ -175,7 +175,7 @@
             "vertical_flip": true,
             "horizontal_flip": true
         },
-        "question": "",
+        "question": "Which toast is sad and which toast is burnt more?",
         "gt_answer": "A sad face can be seen on the toast on the left side and the left hand toast is also the one which is burnt more.",
         "model_answer": ""
     },
@@ -205,7 +205,7 @@
             "vertical_flip": true,
             "horizontal_flip": true
         },
-        "question": "",
+        "question": "Which hand is the doctor wearing a yellow watch?",
         "gt_answer": "The doctor is not wearing a yellow watch. He is wearing a black watch on the left hand and holding a yellow pill in his right hand.",
         "model_answer": ""
     },
@@ -220,7 +220,7 @@
             "vertical_flip": true,
             "horizontal_flip": true
         },
-        "question": "",
+        "question": "Which hand is the doctor wearing a yellow watch?",
         "gt_answer": "The doctor is not wearing a yellow watch. He is wearing a black watch on the left hand and holding a yellow pill in his right hand.",
         "model_answer": ""
     },
@@ -235,7 +235,7 @@
             "vertical_flip": true,
             "horizontal_flip": true
         },
-        "question": "",
+        "question": "Which hand is the doctor wearing a yellow watch?",
         "gt_answer": "The doctor is not wearing a yellow watch. He is wearing a black watch on the left hand and holding a yellow pill in his right hand.",
         "model_answer": ""
     },
